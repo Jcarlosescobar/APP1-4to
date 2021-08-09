@@ -1,0 +1,7 @@
+C:\Users\Juanca\Desktop\App 1 4to bimestre\obj\Debug\App 1 4to bimestre.csprojAssemblyReference.cache
+C:\Users\Juanca\Desktop\App 1 4to bimestre\obj\Debug\App 1 4to bimestre.csproj.CoreCompileInputs.cache
+C:\Users\Juanca\Desktop\App 1 4to bimestre\bin\Debug\App 1 4to bimestre.exe.config
+C:\Users\Juanca\Desktop\App 1 4to bimestre\bin\Debug\App 1 4to bimestre.exe
+C:\Users\Juanca\Desktop\App 1 4to bimestre\bin\Debug\App 1 4to bimestre.pdb
+C:\Users\Juanca\Desktop\App 1 4to bimestre\obj\Debug\App 1 4to bimestre.exe
+C:\Users\Juanca\Desktop\App 1 4to bimestre\obj\Debug\App 1 4to bimestre.pdb
